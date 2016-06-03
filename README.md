@@ -1,0 +1,2 @@
+# RingMode
+It is possible that we are not able to find out where our phone(in silent mode or vibration mode) is. With the help of this application,we can send a sms (whose content will be a secret keyword known only to the owner of the lost phone) from any normal phone and change the mode of the lost phone to RING MODE and thus able to locate the phone.But it is applicable only if the phone is lost in the nearby surroundings.
